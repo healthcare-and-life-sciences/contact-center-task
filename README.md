@@ -1,3 +1,4 @@
+![](images/ahlsbanner.png)
 <h1 id='temp:C:abeefff3d3fa26f4e008d358ec9e'>A-HLS Create Task Workflow - Documentation </h1>
 
 <i>A quick OmniScript that can be placed on various object record pages to quickly create tasks that are related to the current record. </i><br/>
